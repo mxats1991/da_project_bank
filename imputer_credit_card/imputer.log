@@ -1,0 +1,675 @@
+2023-01-22 15:14:05,963 [INFO]  
+========== start: fit model
+2023-01-22 15:14:05,964 [WARNING]  Already bound, ignoring bind()
+2023-01-22 15:17:21,335 [INFO]  Epoch[0] Batch [0-282]	Speed: 23.41 samples/sec	cross-entropy=14.360718	credit_card-accuracy=0.000000
+2023-01-22 15:20:13,081 [INFO]  Epoch[0] Train-cross-entropy=13.943984
+2023-01-22 15:20:13,097 [INFO]  Epoch[0] Train-credit_card-accuracy=0.000000
+2023-01-22 15:20:13,098 [INFO]  Epoch[0] Time cost=367.130
+2023-01-22 15:20:13,106 [INFO]  Saved checkpoint to "imputer_credit_card/model-0000.params"
+2023-01-22 15:20:14,897 [INFO]  Epoch[0] Validation-cross-entropy=14.116457
+2023-01-22 15:20:14,898 [INFO]  Epoch[0] Validation-credit_card-accuracy=0.000000
+2023-01-22 15:22:48,980 [INFO]  Epoch[1] Batch [0-282]	Speed: 29.44 samples/sec	cross-entropy=13.658892	credit_card-accuracy=0.000000
+2023-01-22 15:25:21,234 [INFO]  Epoch[1] Train-cross-entropy=13.342222
+2023-01-22 15:25:21,259 [INFO]  Epoch[1] Train-credit_card-accuracy=0.000000
+2023-01-22 15:25:21,260 [INFO]  Epoch[1] Time cost=306.361
+2023-01-22 15:25:21,267 [INFO]  Saved checkpoint to "imputer_credit_card/model-0001.params"
+2023-01-22 15:25:22,994 [INFO]  Epoch[1] Validation-cross-entropy=13.865613
+2023-01-22 15:25:22,995 [INFO]  Epoch[1] Validation-credit_card-accuracy=0.000000
+2023-01-22 15:28:06,174 [INFO]  Epoch[2] Batch [0-282]	Speed: 27.80 samples/sec	cross-entropy=13.455433	credit_card-accuracy=0.000000
+2023-01-22 15:30:40,087 [INFO]  Epoch[2] Train-cross-entropy=13.213840
+2023-01-22 15:30:40,107 [INFO]  Epoch[2] Train-credit_card-accuracy=0.000000
+2023-01-22 15:30:40,107 [INFO]  Epoch[2] Time cost=317.111
+2023-01-22 15:30:40,113 [INFO]  Saved checkpoint to "imputer_credit_card/model-0002.params"
+2023-01-22 15:30:41,869 [INFO]  Epoch[2] Validation-cross-entropy=13.760335
+2023-01-22 15:30:41,870 [INFO]  Epoch[2] Validation-credit_card-accuracy=0.000000
+2023-01-22 15:33:16,577 [INFO]  Epoch[3] Batch [0-282]	Speed: 29.30 samples/sec	cross-entropy=13.323330	credit_card-accuracy=0.000000
+2023-01-22 15:35:47,241 [INFO]  Epoch[3] Train-cross-entropy=13.080231
+2023-01-22 15:35:47,262 [INFO]  Epoch[3] Train-credit_card-accuracy=0.000000
+2023-01-22 15:35:47,263 [INFO]  Epoch[3] Time cost=305.392
+2023-01-22 15:35:47,267 [INFO]  Saved checkpoint to "imputer_credit_card/model-0003.params"
+2023-01-22 15:35:49,109 [INFO]  Epoch[3] Validation-cross-entropy=13.585563
+2023-01-22 15:35:49,110 [INFO]  Epoch[3] Validation-credit_card-accuracy=0.000000
+2023-01-22 15:38:26,208 [INFO]  Epoch[4] Batch [0-282]	Speed: 28.87 samples/sec	cross-entropy=13.184141	credit_card-accuracy=0.000000
+2023-01-22 15:40:58,691 [INFO]  Epoch[4] Train-cross-entropy=13.057831
+2023-01-22 15:40:58,717 [INFO]  Epoch[4] Train-credit_card-accuracy=0.000000
+2023-01-22 15:40:58,718 [INFO]  Epoch[4] Time cost=309.607
+2023-01-22 15:40:58,725 [INFO]  Saved checkpoint to "imputer_credit_card/model-0004.params"
+2023-01-22 15:41:00,479 [INFO]  Epoch[4] Validation-cross-entropy=13.520338
+2023-01-22 15:41:00,479 [INFO]  Epoch[4] Validation-credit_card-accuracy=0.000000
+2023-01-22 15:43:35,000 [INFO]  Epoch[5] Batch [0-282]	Speed: 29.34 samples/sec	cross-entropy=13.078654	credit_card-accuracy=0.000000
+2023-01-22 15:46:11,727 [INFO]  Epoch[5] Train-cross-entropy=12.943968
+2023-01-22 15:46:11,740 [INFO]  Epoch[5] Train-credit_card-accuracy=0.000000
+2023-01-22 15:46:11,741 [INFO]  Epoch[5] Time cost=311.261
+2023-01-22 15:46:11,755 [INFO]  Saved checkpoint to "imputer_credit_card/model-0005.params"
+2023-01-22 15:46:13,747 [INFO]  Epoch[5] Validation-cross-entropy=13.424288
+2023-01-22 15:46:13,747 [INFO]  Epoch[5] Validation-credit_card-accuracy=0.000000
+2023-01-22 15:48:49,700 [INFO]  Epoch[6] Batch [0-282]	Speed: 29.09 samples/sec	cross-entropy=12.983610	credit_card-accuracy=0.000000
+2023-01-22 15:51:22,595 [INFO]  Epoch[6] Train-cross-entropy=12.814304
+2023-01-22 15:51:22,612 [INFO]  Epoch[6] Train-credit_card-accuracy=0.000000
+2023-01-22 15:51:22,613 [INFO]  Epoch[6] Time cost=308.865
+2023-01-22 15:51:22,619 [INFO]  Saved checkpoint to "imputer_credit_card/model-0006.params"
+2023-01-22 15:51:24,377 [INFO]  Epoch[6] Validation-cross-entropy=13.347504
+2023-01-22 15:51:24,378 [INFO]  Epoch[6] Validation-credit_card-accuracy=0.000000
+2023-01-22 15:54:16,057 [INFO]  Epoch[7] Batch [0-282]	Speed: 26.39 samples/sec	cross-entropy=12.909572	credit_card-accuracy=0.000000
+2023-01-22 15:56:28,965 [INFO]  
+========== done (2543.0017771720886 s) fit model
+2023-01-22 16:06:51,387 [INFO]  
+========== start: fit model
+2023-01-22 16:06:51,387 [INFO]  
+========== start: fit model
+2023-01-22 16:06:51,389 [WARNING]  Already bound, ignoring bind()
+2023-01-22 16:06:51,389 [WARNING]  Already bound, ignoring bind()
+2023-01-22 16:09:32,488 [INFO]  Epoch[0] Batch [0-282]	Speed: 28.47 samples/sec	cross-entropy=14.442119	credit_card-accuracy=0.000000
+2023-01-22 16:09:32,488 [INFO]  Epoch[0] Batch [0-282]	Speed: 28.47 samples/sec	cross-entropy=14.442119	credit_card-accuracy=0.000000
+2023-01-22 16:12:08,271 [INFO]  Epoch[0] Train-cross-entropy=14.324639
+2023-01-22 16:12:08,271 [INFO]  Epoch[0] Train-cross-entropy=14.324639
+2023-01-22 16:12:08,278 [INFO]  Epoch[0] Train-credit_card-accuracy=0.000000
+2023-01-22 16:12:08,278 [INFO]  Epoch[0] Train-credit_card-accuracy=0.000000
+2023-01-22 16:12:08,279 [INFO]  Epoch[0] Time cost=316.885
+2023-01-22 16:12:08,279 [INFO]  Epoch[0] Time cost=316.885
+2023-01-22 16:12:08,290 [INFO]  Saved checkpoint to "imputer_credit_card/model-0000.params"
+2023-01-22 16:12:08,290 [INFO]  Saved checkpoint to "imputer_credit_card/model-0000.params"
+2023-01-22 16:12:10,027 [INFO]  Epoch[0] Validation-cross-entropy=14.199463
+2023-01-22 16:12:10,027 [INFO]  Epoch[0] Validation-cross-entropy=14.199463
+2023-01-22 16:12:10,028 [INFO]  Epoch[0] Validation-credit_card-accuracy=0.000000
+2023-01-22 16:12:10,028 [INFO]  Epoch[0] Validation-credit_card-accuracy=0.000000
+2023-01-22 16:14:45,135 [INFO]  Epoch[1] Batch [0-282]	Speed: 29.26 samples/sec	cross-entropy=13.715571	credit_card-accuracy=0.000000
+2023-01-22 16:14:45,135 [INFO]  Epoch[1] Batch [0-282]	Speed: 29.26 samples/sec	cross-entropy=13.715571	credit_card-accuracy=0.000000
+2023-01-22 16:17:16,784 [INFO]  Epoch[1] Train-cross-entropy=13.310962
+2023-01-22 16:17:16,784 [INFO]  Epoch[1] Train-cross-entropy=13.310962
+2023-01-22 16:17:16,785 [INFO]  Epoch[1] Train-credit_card-accuracy=0.000000
+2023-01-22 16:17:16,785 [INFO]  Epoch[1] Train-credit_card-accuracy=0.000000
+2023-01-22 16:17:16,786 [INFO]  Epoch[1] Time cost=306.757
+2023-01-22 16:17:16,786 [INFO]  Epoch[1] Time cost=306.757
+2023-01-22 16:17:16,794 [INFO]  Saved checkpoint to "imputer_credit_card/model-0001.params"
+2023-01-22 16:17:16,794 [INFO]  Saved checkpoint to "imputer_credit_card/model-0001.params"
+2023-01-22 16:17:18,456 [INFO]  Epoch[1] Validation-cross-entropy=13.855018
+2023-01-22 16:17:18,456 [INFO]  Epoch[1] Validation-cross-entropy=13.855018
+2023-01-22 16:17:18,457 [INFO]  Epoch[1] Validation-credit_card-accuracy=0.000000
+2023-01-22 16:17:18,457 [INFO]  Epoch[1] Validation-credit_card-accuracy=0.000000
+2023-01-22 16:19:52,214 [INFO]  Epoch[2] Batch [0-282]	Speed: 29.46 samples/sec	cross-entropy=13.446609	credit_card-accuracy=0.000000
+2023-01-22 16:19:52,214 [INFO]  Epoch[2] Batch [0-282]	Speed: 29.46 samples/sec	cross-entropy=13.446609	credit_card-accuracy=0.000000
+2023-01-22 16:22:23,463 [INFO]  Epoch[2] Train-cross-entropy=13.202257
+2023-01-22 16:22:23,463 [INFO]  Epoch[2] Train-cross-entropy=13.202257
+2023-01-22 16:22:23,464 [INFO]  Epoch[2] Train-credit_card-accuracy=0.000000
+2023-01-22 16:22:23,464 [INFO]  Epoch[2] Train-credit_card-accuracy=0.000000
+2023-01-22 16:22:23,465 [INFO]  Epoch[2] Time cost=305.007
+2023-01-22 16:22:23,465 [INFO]  Epoch[2] Time cost=305.007
+2023-01-22 16:22:23,479 [INFO]  Saved checkpoint to "imputer_credit_card/model-0002.params"
+2023-01-22 16:22:23,479 [INFO]  Saved checkpoint to "imputer_credit_card/model-0002.params"
+2023-01-22 16:22:25,183 [INFO]  Epoch[2] Validation-cross-entropy=13.759140
+2023-01-22 16:22:25,183 [INFO]  Epoch[2] Validation-cross-entropy=13.759140
+2023-01-22 16:22:25,184 [INFO]  Epoch[2] Validation-credit_card-accuracy=0.000000
+2023-01-22 16:22:25,184 [INFO]  Epoch[2] Validation-credit_card-accuracy=0.000000
+2023-01-22 16:24:54,427 [INFO]  Epoch[3] Batch [0-282]	Speed: 30.36 samples/sec	cross-entropy=13.313805	credit_card-accuracy=0.000000
+2023-01-22 16:24:54,427 [INFO]  Epoch[3] Batch [0-282]	Speed: 30.36 samples/sec	cross-entropy=13.313805	credit_card-accuracy=0.000000
+2023-01-22 16:27:17,363 [INFO]  Epoch[3] Train-cross-entropy=13.095940
+2023-01-22 16:27:17,363 [INFO]  Epoch[3] Train-cross-entropy=13.095940
+2023-01-22 16:27:17,387 [INFO]  Epoch[3] Train-credit_card-accuracy=0.000000
+2023-01-22 16:27:17,387 [INFO]  Epoch[3] Train-credit_card-accuracy=0.000000
+2023-01-22 16:27:17,388 [INFO]  Epoch[3] Time cost=292.203
+2023-01-22 16:27:17,388 [INFO]  Epoch[3] Time cost=292.203
+2023-01-22 16:27:17,396 [INFO]  Saved checkpoint to "imputer_credit_card/model-0003.params"
+2023-01-22 16:27:17,396 [INFO]  Saved checkpoint to "imputer_credit_card/model-0003.params"
+2023-01-22 16:27:18,976 [INFO]  Epoch[3] Validation-cross-entropy=13.651036
+2023-01-22 16:27:18,976 [INFO]  Epoch[3] Validation-cross-entropy=13.651036
+2023-01-22 16:27:18,977 [INFO]  Epoch[3] Validation-credit_card-accuracy=0.000000
+2023-01-22 16:27:18,977 [INFO]  Epoch[3] Validation-credit_card-accuracy=0.000000
+2023-01-22 16:29:42,327 [INFO]  Epoch[4] Batch [0-282]	Speed: 31.64 samples/sec	cross-entropy=13.172707	credit_card-accuracy=0.000000
+2023-01-22 16:29:42,327 [INFO]  Epoch[4] Batch [0-282]	Speed: 31.64 samples/sec	cross-entropy=13.172707	credit_card-accuracy=0.000000
+2023-01-22 16:32:09,956 [INFO]  Epoch[4] Train-cross-entropy=12.947868
+2023-01-22 16:32:09,956 [INFO]  Epoch[4] Train-cross-entropy=12.947868
+2023-01-22 16:32:09,964 [INFO]  Epoch[4] Train-credit_card-accuracy=0.000000
+2023-01-22 16:32:09,964 [INFO]  Epoch[4] Train-credit_card-accuracy=0.000000
+2023-01-22 16:32:09,965 [INFO]  Epoch[4] Time cost=290.988
+2023-01-22 16:32:09,965 [INFO]  Epoch[4] Time cost=290.988
+2023-01-22 16:32:09,972 [INFO]  Saved checkpoint to "imputer_credit_card/model-0004.params"
+2023-01-22 16:32:09,972 [INFO]  Saved checkpoint to "imputer_credit_card/model-0004.params"
+2023-01-22 16:32:11,746 [INFO]  Epoch[4] Validation-cross-entropy=13.499798
+2023-01-22 16:32:11,746 [INFO]  Epoch[4] Validation-cross-entropy=13.499798
+2023-01-22 16:32:11,747 [INFO]  Epoch[4] Validation-credit_card-accuracy=0.000000
+2023-01-22 16:32:11,747 [INFO]  Epoch[4] Validation-credit_card-accuracy=0.000000
+2023-01-22 16:33:51,554 [INFO]  
+========== done (1620.1715149879456 s) fit model
+2023-01-22 16:33:51,554 [INFO]  
+========== done (1620.1715149879456 s) fit model
+2023-01-22 16:39:59,049 [INFO]  
+========== start: fit model
+2023-01-22 16:39:59,049 [INFO]  
+========== start: fit model
+2023-01-22 16:39:59,049 [INFO]  
+========== start: fit model
+2023-01-22 16:39:59,062 [WARNING]  Already bound, ignoring bind()
+2023-01-22 16:39:59,062 [WARNING]  Already bound, ignoring bind()
+2023-01-22 16:39:59,062 [WARNING]  Already bound, ignoring bind()
+2023-01-22 16:41:00,008 [INFO]  Epoch[0] Batch [0-169]	Speed: 45.14 samples/sec	cross-entropy=14.442730	credit_card-accuracy=0.000000
+2023-01-22 16:41:00,008 [INFO]  Epoch[0] Batch [0-169]	Speed: 45.14 samples/sec	cross-entropy=14.442730	credit_card-accuracy=0.000000
+2023-01-22 16:41:00,008 [INFO]  Epoch[0] Batch [0-169]	Speed: 45.14 samples/sec	cross-entropy=14.442730	credit_card-accuracy=0.000000
+2023-01-22 16:41:26,060 [INFO]  
+========== done (87.01082491874695 s) fit model
+2023-01-22 16:41:26,060 [INFO]  
+========== done (87.01082491874695 s) fit model
+2023-01-22 16:41:26,060 [INFO]  
+========== done (87.01082491874695 s) fit model
+2023-01-22 16:44:49,404 [INFO]  
+========== start: fit model
+2023-01-22 16:44:49,433 [WARNING]  Already bound, ignoring bind()
+2023-01-22 16:47:48,652 [INFO]  Epoch[0] Batch [0-282]	Speed: 25.71 samples/sec	cross-entropy=14.360718	credit_card-accuracy=0.000000
+2023-01-22 16:50:37,210 [INFO]  Epoch[0] Train-cross-entropy=13.943984
+2023-01-22 16:50:37,219 [INFO]  Epoch[0] Train-credit_card-accuracy=0.000000
+2023-01-22 16:50:37,220 [INFO]  Epoch[0] Time cost=347.784
+2023-01-22 16:50:37,265 [INFO]  Saved checkpoint to "imputer_credit_card/model-0000.params"
+2023-01-22 16:50:39,015 [INFO]  Epoch[0] Validation-cross-entropy=14.116457
+2023-01-22 16:50:39,016 [INFO]  Epoch[0] Validation-credit_card-accuracy=0.000000
+2023-01-22 16:52:39,924 [INFO]  
+========== done (470.5203058719635 s) fit model
+2023-01-22 16:54:06,067 [INFO]  
+========== start: fit model
+2023-01-22 16:54:06,067 [INFO]  
+========== start: fit model
+2023-01-22 16:54:06,068 [WARNING]  Already bound, ignoring bind()
+2023-01-22 16:54:06,068 [WARNING]  Already bound, ignoring bind()
+2023-01-22 16:54:45,996 [INFO]  Epoch[0] Batch [0-141]	Speed: 57.06 samples/sec	cross-entropy=14.813134	credit_card-accuracy=0.000000
+2023-01-22 16:54:45,996 [INFO]  Epoch[0] Batch [0-141]	Speed: 57.06 samples/sec	cross-entropy=14.813134	credit_card-accuracy=0.000000
+2023-01-22 16:55:23,457 [INFO]  Epoch[0] Train-cross-entropy=13.747646
+2023-01-22 16:55:23,457 [INFO]  Epoch[0] Train-cross-entropy=13.747646
+2023-01-22 16:55:23,458 [INFO]  Epoch[0] Train-credit_card-accuracy=0.000000
+2023-01-22 16:55:23,458 [INFO]  Epoch[0] Train-credit_card-accuracy=0.000000
+2023-01-22 16:55:23,459 [INFO]  Epoch[0] Time cost=77.387
+2023-01-22 16:55:23,459 [INFO]  Epoch[0] Time cost=77.387
+2023-01-22 16:55:23,462 [INFO]  Saved checkpoint to "imputer_credit_card/model-0000.params"
+2023-01-22 16:55:23,462 [INFO]  Saved checkpoint to "imputer_credit_card/model-0000.params"
+2023-01-22 16:55:23,965 [INFO]  Epoch[0] Validation-cross-entropy=14.581748
+2023-01-22 16:55:23,965 [INFO]  Epoch[0] Validation-cross-entropy=14.581748
+2023-01-22 16:55:23,966 [INFO]  Epoch[0] Validation-credit_card-accuracy=0.000000
+2023-01-22 16:55:23,966 [INFO]  Epoch[0] Validation-credit_card-accuracy=0.000000
+2023-01-22 16:56:02,623 [INFO]  Epoch[1] Batch [0-141]	Speed: 58.79 samples/sec	cross-entropy=14.067090	credit_card-accuracy=0.000000
+2023-01-22 16:56:02,623 [INFO]  Epoch[1] Batch [0-141]	Speed: 58.79 samples/sec	cross-entropy=14.067090	credit_card-accuracy=0.000000
+2023-01-22 16:56:40,767 [INFO]  Epoch[1] Train-cross-entropy=13.424723
+2023-01-22 16:56:40,767 [INFO]  Epoch[1] Train-cross-entropy=13.424723
+2023-01-22 16:56:40,767 [INFO]  Epoch[1] Train-credit_card-accuracy=0.000000
+2023-01-22 16:56:40,767 [INFO]  Epoch[1] Train-credit_card-accuracy=0.000000
+2023-01-22 16:56:40,768 [INFO]  Epoch[1] Time cost=76.802
+2023-01-22 16:56:40,768 [INFO]  Epoch[1] Time cost=76.802
+2023-01-22 16:56:40,774 [INFO]  Saved checkpoint to "imputer_credit_card/model-0001.params"
+2023-01-22 16:56:40,774 [INFO]  Saved checkpoint to "imputer_credit_card/model-0001.params"
+2023-01-22 16:56:41,260 [INFO]  Epoch[1] Validation-cross-entropy=14.240852
+2023-01-22 16:56:41,260 [INFO]  Epoch[1] Validation-cross-entropy=14.240852
+2023-01-22 16:56:41,261 [INFO]  Epoch[1] Validation-credit_card-accuracy=0.000000
+2023-01-22 16:56:41,261 [INFO]  Epoch[1] Validation-credit_card-accuracy=0.000000
+2023-01-22 16:57:21,290 [INFO]  Epoch[2] Batch [0-141]	Speed: 56.76 samples/sec	cross-entropy=13.900968	credit_card-accuracy=0.000000
+2023-01-22 16:57:21,290 [INFO]  Epoch[2] Batch [0-141]	Speed: 56.76 samples/sec	cross-entropy=13.900968	credit_card-accuracy=0.000000
+2023-01-22 16:58:01,107 [INFO]  Epoch[2] Train-cross-entropy=13.251970
+2023-01-22 16:58:01,107 [INFO]  Epoch[2] Train-cross-entropy=13.251970
+2023-01-22 16:58:01,108 [INFO]  Epoch[2] Train-credit_card-accuracy=0.000000
+2023-01-22 16:58:01,108 [INFO]  Epoch[2] Train-credit_card-accuracy=0.000000
+2023-01-22 16:58:01,109 [INFO]  Epoch[2] Time cost=79.847
+2023-01-22 16:58:01,109 [INFO]  Epoch[2] Time cost=79.847
+2023-01-22 16:58:01,119 [INFO]  Saved checkpoint to "imputer_credit_card/model-0002.params"
+2023-01-22 16:58:01,119 [INFO]  Saved checkpoint to "imputer_credit_card/model-0002.params"
+2023-01-22 16:58:01,614 [INFO]  Epoch[2] Validation-cross-entropy=14.065470
+2023-01-22 16:58:01,614 [INFO]  Epoch[2] Validation-cross-entropy=14.065470
+2023-01-22 16:58:01,614 [INFO]  Epoch[2] Validation-credit_card-accuracy=0.000000
+2023-01-22 16:58:01,614 [INFO]  Epoch[2] Validation-credit_card-accuracy=0.000000
+2023-01-22 16:58:40,653 [INFO]  Epoch[3] Batch [0-141]	Speed: 58.22 samples/sec	cross-entropy=13.787296	credit_card-accuracy=0.000000
+2023-01-22 16:58:40,653 [INFO]  Epoch[3] Batch [0-141]	Speed: 58.22 samples/sec	cross-entropy=13.787296	credit_card-accuracy=0.000000
+2023-01-22 16:59:18,872 [INFO]  Epoch[3] Train-cross-entropy=13.112421
+2023-01-22 16:59:18,872 [INFO]  Epoch[3] Train-cross-entropy=13.112421
+2023-01-22 16:59:18,873 [INFO]  Epoch[3] Train-credit_card-accuracy=0.000000
+2023-01-22 16:59:18,873 [INFO]  Epoch[3] Train-credit_card-accuracy=0.000000
+2023-01-22 16:59:18,874 [INFO]  Epoch[3] Time cost=77.259
+2023-01-22 16:59:18,874 [INFO]  Epoch[3] Time cost=77.259
+2023-01-22 16:59:18,880 [INFO]  Saved checkpoint to "imputer_credit_card/model-0003.params"
+2023-01-22 16:59:18,880 [INFO]  Saved checkpoint to "imputer_credit_card/model-0003.params"
+2023-01-22 16:59:19,369 [INFO]  Epoch[3] Validation-cross-entropy=13.972352
+2023-01-22 16:59:19,369 [INFO]  Epoch[3] Validation-cross-entropy=13.972352
+2023-01-22 16:59:19,370 [INFO]  Epoch[3] Validation-credit_card-accuracy=0.000000
+2023-01-22 16:59:19,370 [INFO]  Epoch[3] Validation-credit_card-accuracy=0.000000
+2023-01-22 16:59:57,981 [INFO]  Epoch[4] Batch [0-141]	Speed: 58.85 samples/sec	cross-entropy=13.697601	credit_card-accuracy=0.000000
+2023-01-22 16:59:57,981 [INFO]  Epoch[4] Batch [0-141]	Speed: 58.85 samples/sec	cross-entropy=13.697601	credit_card-accuracy=0.000000
+2023-01-22 17:00:35,885 [INFO]  Epoch[4] Train-cross-entropy=12.977185
+2023-01-22 17:00:35,885 [INFO]  Epoch[4] Train-cross-entropy=12.977185
+2023-01-22 17:00:35,886 [INFO]  Epoch[4] Train-credit_card-accuracy=0.000000
+2023-01-22 17:00:35,886 [INFO]  Epoch[4] Train-credit_card-accuracy=0.000000
+2023-01-22 17:00:35,887 [INFO]  Epoch[4] Time cost=76.516
+2023-01-22 17:00:35,887 [INFO]  Epoch[4] Time cost=76.516
+2023-01-22 17:00:35,892 [INFO]  Saved checkpoint to "imputer_credit_card/model-0004.params"
+2023-01-22 17:00:35,892 [INFO]  Saved checkpoint to "imputer_credit_card/model-0004.params"
+2023-01-22 17:00:36,395 [INFO]  Epoch[4] Validation-cross-entropy=13.969397
+2023-01-22 17:00:36,395 [INFO]  Epoch[4] Validation-cross-entropy=13.969397
+2023-01-22 17:00:36,395 [INFO]  Epoch[4] Validation-credit_card-accuracy=0.000000
+2023-01-22 17:00:36,395 [INFO]  Epoch[4] Validation-credit_card-accuracy=0.000000
+2023-01-22 17:01:14,961 [INFO]  Epoch[5] Batch [0-141]	Speed: 58.92 samples/sec	cross-entropy=13.603239	credit_card-accuracy=0.000000
+2023-01-22 17:01:14,961 [INFO]  Epoch[5] Batch [0-141]	Speed: 58.92 samples/sec	cross-entropy=13.603239	credit_card-accuracy=0.000000
+2023-01-22 17:01:53,109 [INFO]  Epoch[5] Train-cross-entropy=12.865504
+2023-01-22 17:01:53,109 [INFO]  Epoch[5] Train-cross-entropy=12.865504
+2023-01-22 17:01:53,109 [INFO]  Epoch[5] Train-credit_card-accuracy=0.000000
+2023-01-22 17:01:53,109 [INFO]  Epoch[5] Train-credit_card-accuracy=0.000000
+2023-01-22 17:01:53,110 [INFO]  Epoch[5] Time cost=76.714
+2023-01-22 17:01:53,110 [INFO]  Epoch[5] Time cost=76.714
+2023-01-22 17:01:53,115 [INFO]  Saved checkpoint to "imputer_credit_card/model-0005.params"
+2023-01-22 17:01:53,115 [INFO]  Saved checkpoint to "imputer_credit_card/model-0005.params"
+2023-01-22 17:01:53,596 [INFO]  Epoch[5] Validation-cross-entropy=13.898295
+2023-01-22 17:01:53,596 [INFO]  Epoch[5] Validation-cross-entropy=13.898295
+2023-01-22 17:01:53,597 [INFO]  Epoch[5] Validation-credit_card-accuracy=0.000000
+2023-01-22 17:01:53,597 [INFO]  Epoch[5] Validation-credit_card-accuracy=0.000000
+2023-01-22 17:02:32,199 [INFO]  Epoch[6] Batch [0-141]	Speed: 58.87 samples/sec	cross-entropy=13.502105	credit_card-accuracy=0.000000
+2023-01-22 17:02:32,199 [INFO]  Epoch[6] Batch [0-141]	Speed: 58.87 samples/sec	cross-entropy=13.502105	credit_card-accuracy=0.000000
+2023-01-22 17:03:10,262 [INFO]  Epoch[6] Train-cross-entropy=12.730188
+2023-01-22 17:03:10,262 [INFO]  Epoch[6] Train-cross-entropy=12.730188
+2023-01-22 17:03:10,263 [INFO]  Epoch[6] Train-credit_card-accuracy=0.000000
+2023-01-22 17:03:10,263 [INFO]  Epoch[6] Train-credit_card-accuracy=0.000000
+2023-01-22 17:03:10,264 [INFO]  Epoch[6] Time cost=76.666
+2023-01-22 17:03:10,264 [INFO]  Epoch[6] Time cost=76.666
+2023-01-22 17:03:10,270 [INFO]  Saved checkpoint to "imputer_credit_card/model-0006.params"
+2023-01-22 17:03:10,270 [INFO]  Saved checkpoint to "imputer_credit_card/model-0006.params"
+2023-01-22 17:03:10,741 [INFO]  Epoch[6] Validation-cross-entropy=13.864490
+2023-01-22 17:03:10,741 [INFO]  Epoch[6] Validation-cross-entropy=13.864490
+2023-01-22 17:03:10,742 [INFO]  Epoch[6] Validation-credit_card-accuracy=0.000000
+2023-01-22 17:03:10,742 [INFO]  Epoch[6] Validation-credit_card-accuracy=0.000000
+2023-01-22 17:03:49,395 [INFO]  Epoch[7] Batch [0-141]	Speed: 58.79 samples/sec	cross-entropy=13.412655	credit_card-accuracy=0.000000
+2023-01-22 17:03:49,395 [INFO]  Epoch[7] Batch [0-141]	Speed: 58.79 samples/sec	cross-entropy=13.412655	credit_card-accuracy=0.000000
+2023-01-22 17:04:27,410 [INFO]  Epoch[7] Train-cross-entropy=12.607222
+2023-01-22 17:04:27,410 [INFO]  Epoch[7] Train-cross-entropy=12.607222
+2023-01-22 17:04:27,411 [INFO]  Epoch[7] Train-credit_card-accuracy=0.000000
+2023-01-22 17:04:27,411 [INFO]  Epoch[7] Train-credit_card-accuracy=0.000000
+2023-01-22 17:04:27,412 [INFO]  Epoch[7] Time cost=76.669
+2023-01-22 17:04:27,412 [INFO]  Epoch[7] Time cost=76.669
+2023-01-22 17:04:27,417 [INFO]  Saved checkpoint to "imputer_credit_card/model-0007.params"
+2023-01-22 17:04:27,417 [INFO]  Saved checkpoint to "imputer_credit_card/model-0007.params"
+2023-01-22 17:04:27,899 [INFO]  Epoch[7] Validation-cross-entropy=13.825392
+2023-01-22 17:04:27,899 [INFO]  Epoch[7] Validation-cross-entropy=13.825392
+2023-01-22 17:04:27,900 [INFO]  Epoch[7] Validation-credit_card-accuracy=0.000000
+2023-01-22 17:04:27,900 [INFO]  Epoch[7] Validation-credit_card-accuracy=0.000000
+2023-01-22 17:05:06,484 [INFO]  Epoch[8] Batch [0-141]	Speed: 58.90 samples/sec	cross-entropy=13.338484	credit_card-accuracy=0.000000
+2023-01-22 17:05:06,484 [INFO]  Epoch[8] Batch [0-141]	Speed: 58.90 samples/sec	cross-entropy=13.338484	credit_card-accuracy=0.000000
+2023-01-22 17:05:44,430 [INFO]  Epoch[8] Train-cross-entropy=12.524898
+2023-01-22 17:05:44,430 [INFO]  Epoch[8] Train-cross-entropy=12.524898
+2023-01-22 17:05:44,431 [INFO]  Epoch[8] Train-credit_card-accuracy=0.000000
+2023-01-22 17:05:44,431 [INFO]  Epoch[8] Train-credit_card-accuracy=0.000000
+2023-01-22 17:05:44,432 [INFO]  Epoch[8] Time cost=76.531
+2023-01-22 17:05:44,432 [INFO]  Epoch[8] Time cost=76.531
+2023-01-22 17:05:44,437 [INFO]  Saved checkpoint to "imputer_credit_card/model-0008.params"
+2023-01-22 17:05:44,437 [INFO]  Saved checkpoint to "imputer_credit_card/model-0008.params"
+2023-01-22 17:05:44,915 [INFO]  Epoch[8] Validation-cross-entropy=13.705611
+2023-01-22 17:05:44,915 [INFO]  Epoch[8] Validation-cross-entropy=13.705611
+2023-01-22 17:05:44,915 [INFO]  Epoch[8] Validation-credit_card-accuracy=0.000000
+2023-01-22 17:05:44,915 [INFO]  Epoch[8] Validation-credit_card-accuracy=0.000000
+2023-01-22 17:06:23,546 [INFO]  Epoch[9] Batch [0-141]	Speed: 58.82 samples/sec	cross-entropy=13.282679	credit_card-accuracy=0.000000
+2023-01-22 17:06:23,546 [INFO]  Epoch[9] Batch [0-141]	Speed: 58.82 samples/sec	cross-entropy=13.282679	credit_card-accuracy=0.000000
+2023-01-22 17:07:01,620 [INFO]  Epoch[9] Train-cross-entropy=12.429609
+2023-01-22 17:07:01,620 [INFO]  Epoch[9] Train-cross-entropy=12.429609
+2023-01-22 17:07:01,621 [INFO]  Epoch[9] Train-credit_card-accuracy=0.000000
+2023-01-22 17:07:01,621 [INFO]  Epoch[9] Train-credit_card-accuracy=0.000000
+2023-01-22 17:07:01,622 [INFO]  Epoch[9] Time cost=76.706
+2023-01-22 17:07:01,622 [INFO]  Epoch[9] Time cost=76.706
+2023-01-22 17:07:01,627 [INFO]  Saved checkpoint to "imputer_credit_card/model-0009.params"
+2023-01-22 17:07:01,627 [INFO]  Saved checkpoint to "imputer_credit_card/model-0009.params"
+2023-01-22 17:07:02,145 [INFO]  Epoch[9] Validation-cross-entropy=13.681355
+2023-01-22 17:07:02,145 [INFO]  Epoch[9] Validation-cross-entropy=13.681355
+2023-01-22 17:07:02,146 [INFO]  Epoch[9] Validation-credit_card-accuracy=0.000000
+2023-01-22 17:07:02,146 [INFO]  Epoch[9] Validation-credit_card-accuracy=0.000000
+2023-01-22 17:07:02,147 [INFO]  
+========== done (776.0801978111267 s) fit model
+2023-01-22 17:07:02,147 [INFO]  
+========== done (776.0801978111267 s) fit model
+2023-01-22 17:12:55,195 [INFO]  
+========== start: fit model
+2023-01-22 17:12:55,195 [INFO]  
+========== start: fit model
+2023-01-22 17:12:55,195 [INFO]  
+========== start: fit model
+2023-01-22 17:12:55,197 [WARNING]  Already bound, ignoring bind()
+2023-01-22 17:12:55,197 [WARNING]  Already bound, ignoring bind()
+2023-01-22 17:12:55,197 [WARNING]  Already bound, ignoring bind()
+2023-01-22 17:13:41,079 [INFO]  Epoch[0] Batch [0-141]	Speed: 49.89 samples/sec	cross-entropy=14.929029	credit_card-accuracy=0.000000
+2023-01-22 17:13:41,079 [INFO]  Epoch[0] Batch [0-141]	Speed: 49.89 samples/sec	cross-entropy=14.929029	credit_card-accuracy=0.000000
+2023-01-22 17:13:41,079 [INFO]  Epoch[0] Batch [0-141]	Speed: 49.89 samples/sec	cross-entropy=14.929029	credit_card-accuracy=0.000000
+2023-01-22 17:14:21,720 [INFO]  Epoch[0] Train-cross-entropy=13.585692
+2023-01-22 17:14:21,720 [INFO]  Epoch[0] Train-cross-entropy=13.585692
+2023-01-22 17:14:21,720 [INFO]  Epoch[0] Train-cross-entropy=13.585692
+2023-01-22 17:14:21,721 [INFO]  Epoch[0] Train-credit_card-accuracy=0.000000
+2023-01-22 17:14:21,721 [INFO]  Epoch[0] Train-credit_card-accuracy=0.000000
+2023-01-22 17:14:21,721 [INFO]  Epoch[0] Train-credit_card-accuracy=0.000000
+2023-01-22 17:14:21,722 [INFO]  Epoch[0] Time cost=86.522
+2023-01-22 17:14:21,722 [INFO]  Epoch[0] Time cost=86.522
+2023-01-22 17:14:21,722 [INFO]  Epoch[0] Time cost=86.522
+2023-01-22 17:14:21,728 [INFO]  Saved checkpoint to "imputer_credit_card/model-0000.params"
+2023-01-22 17:14:21,728 [INFO]  Saved checkpoint to "imputer_credit_card/model-0000.params"
+2023-01-22 17:14:21,728 [INFO]  Saved checkpoint to "imputer_credit_card/model-0000.params"
+2023-01-22 17:14:22,308 [INFO]  Epoch[0] Validation-cross-entropy=13.309060
+2023-01-22 17:14:22,308 [INFO]  Epoch[0] Validation-cross-entropy=13.309060
+2023-01-22 17:14:22,308 [INFO]  Epoch[0] Validation-cross-entropy=13.309060
+2023-01-22 17:14:22,309 [INFO]  Epoch[0] Validation-credit_card-accuracy=0.000000
+2023-01-22 17:14:22,309 [INFO]  Epoch[0] Validation-credit_card-accuracy=0.000000
+2023-01-22 17:14:22,309 [INFO]  Epoch[0] Validation-credit_card-accuracy=0.000000
+2023-01-22 17:15:08,215 [INFO]  Epoch[1] Batch [0-141]	Speed: 49.53 samples/sec	cross-entropy=14.349167	credit_card-accuracy=0.000000
+2023-01-22 17:15:08,215 [INFO]  Epoch[1] Batch [0-141]	Speed: 49.53 samples/sec	cross-entropy=14.349167	credit_card-accuracy=0.000000
+2023-01-22 17:15:08,215 [INFO]  Epoch[1] Batch [0-141]	Speed: 49.53 samples/sec	cross-entropy=14.349167	credit_card-accuracy=0.000000
+2023-01-22 17:15:46,901 [INFO]  Epoch[1] Train-cross-entropy=13.264564
+2023-01-22 17:15:46,901 [INFO]  Epoch[1] Train-cross-entropy=13.264564
+2023-01-22 17:15:46,901 [INFO]  Epoch[1] Train-cross-entropy=13.264564
+2023-01-22 17:15:46,902 [INFO]  Epoch[1] Train-credit_card-accuracy=0.000000
+2023-01-22 17:15:46,902 [INFO]  Epoch[1] Train-credit_card-accuracy=0.000000
+2023-01-22 17:15:46,902 [INFO]  Epoch[1] Train-credit_card-accuracy=0.000000
+2023-01-22 17:15:46,903 [INFO]  Epoch[1] Time cost=84.593
+2023-01-22 17:15:46,903 [INFO]  Epoch[1] Time cost=84.593
+2023-01-22 17:15:46,903 [INFO]  Epoch[1] Time cost=84.593
+2023-01-22 17:15:46,908 [INFO]  Saved checkpoint to "imputer_credit_card/model-0001.params"
+2023-01-22 17:15:46,908 [INFO]  Saved checkpoint to "imputer_credit_card/model-0001.params"
+2023-01-22 17:15:46,908 [INFO]  Saved checkpoint to "imputer_credit_card/model-0001.params"
+2023-01-22 17:15:47,409 [INFO]  Epoch[1] Validation-cross-entropy=13.480664
+2023-01-22 17:15:47,409 [INFO]  Epoch[1] Validation-cross-entropy=13.480664
+2023-01-22 17:15:47,409 [INFO]  Epoch[1] Validation-cross-entropy=13.480664
+2023-01-22 17:15:47,409 [INFO]  Epoch[1] Validation-credit_card-accuracy=0.000000
+2023-01-22 17:15:47,409 [INFO]  Epoch[1] Validation-credit_card-accuracy=0.000000
+2023-01-22 17:15:47,409 [INFO]  Epoch[1] Validation-credit_card-accuracy=0.000000
+2023-01-22 17:16:27,931 [INFO]  Epoch[2] Batch [0-141]	Speed: 56.10 samples/sec	cross-entropy=14.475011	credit_card-accuracy=0.000000
+2023-01-22 17:16:27,931 [INFO]  Epoch[2] Batch [0-141]	Speed: 56.10 samples/sec	cross-entropy=14.475011	credit_card-accuracy=0.000000
+2023-01-22 17:16:27,931 [INFO]  Epoch[2] Batch [0-141]	Speed: 56.10 samples/sec	cross-entropy=14.475011	credit_card-accuracy=0.000000
+2023-01-22 17:17:12,486 [INFO]  Epoch[2] Train-cross-entropy=13.180086
+2023-01-22 17:17:12,486 [INFO]  Epoch[2] Train-cross-entropy=13.180086
+2023-01-22 17:17:12,486 [INFO]  Epoch[2] Train-cross-entropy=13.180086
+2023-01-22 17:17:12,577 [INFO]  Epoch[2] Train-credit_card-accuracy=0.000000
+2023-01-22 17:17:12,577 [INFO]  Epoch[2] Train-credit_card-accuracy=0.000000
+2023-01-22 17:17:12,577 [INFO]  Epoch[2] Train-credit_card-accuracy=0.000000
+2023-01-22 17:17:12,578 [INFO]  Epoch[2] Time cost=85.168
+2023-01-22 17:17:12,578 [INFO]  Epoch[2] Time cost=85.168
+2023-01-22 17:17:12,578 [INFO]  Epoch[2] Time cost=85.168
+2023-01-22 17:17:12,583 [INFO]  Saved checkpoint to "imputer_credit_card/model-0002.params"
+2023-01-22 17:17:12,583 [INFO]  Saved checkpoint to "imputer_credit_card/model-0002.params"
+2023-01-22 17:17:12,583 [INFO]  Saved checkpoint to "imputer_credit_card/model-0002.params"
+2023-01-22 17:17:13,231 [INFO]  Epoch[2] Validation-cross-entropy=13.410831
+2023-01-22 17:17:13,231 [INFO]  Epoch[2] Validation-cross-entropy=13.410831
+2023-01-22 17:17:13,231 [INFO]  Epoch[2] Validation-cross-entropy=13.410831
+2023-01-22 17:17:13,232 [INFO]  Epoch[2] Validation-credit_card-accuracy=0.000000
+2023-01-22 17:17:13,232 [INFO]  Epoch[2] Validation-credit_card-accuracy=0.000000
+2023-01-22 17:17:13,232 [INFO]  Epoch[2] Validation-credit_card-accuracy=0.000000
+2023-01-22 17:18:00,773 [INFO]  Epoch[3] Batch [0-141]	Speed: 47.84 samples/sec	cross-entropy=14.534976	credit_card-accuracy=0.000000
+2023-01-22 17:18:00,773 [INFO]  Epoch[3] Batch [0-141]	Speed: 47.84 samples/sec	cross-entropy=14.534976	credit_card-accuracy=0.000000
+2023-01-22 17:18:00,773 [INFO]  Epoch[3] Batch [0-141]	Speed: 47.84 samples/sec	cross-entropy=14.534976	credit_card-accuracy=0.000000
+2023-01-22 17:18:43,542 [INFO]  Epoch[3] Train-cross-entropy=12.946047
+2023-01-22 17:18:43,542 [INFO]  Epoch[3] Train-cross-entropy=12.946047
+2023-01-22 17:18:43,542 [INFO]  Epoch[3] Train-cross-entropy=12.946047
+2023-01-22 17:18:43,543 [INFO]  Epoch[3] Train-credit_card-accuracy=0.000000
+2023-01-22 17:18:43,543 [INFO]  Epoch[3] Train-credit_card-accuracy=0.000000
+2023-01-22 17:18:43,543 [INFO]  Epoch[3] Train-credit_card-accuracy=0.000000
+2023-01-22 17:18:43,544 [INFO]  Epoch[3] Time cost=90.311
+2023-01-22 17:18:43,544 [INFO]  Epoch[3] Time cost=90.311
+2023-01-22 17:18:43,544 [INFO]  Epoch[3] Time cost=90.311
+2023-01-22 17:18:43,549 [INFO]  Saved checkpoint to "imputer_credit_card/model-0003.params"
+2023-01-22 17:18:43,549 [INFO]  Saved checkpoint to "imputer_credit_card/model-0003.params"
+2023-01-22 17:18:43,549 [INFO]  Saved checkpoint to "imputer_credit_card/model-0003.params"
+2023-01-22 17:18:44,075 [INFO]  Epoch[3] Validation-cross-entropy=13.416770
+2023-01-22 17:18:44,075 [INFO]  Epoch[3] Validation-cross-entropy=13.416770
+2023-01-22 17:18:44,075 [INFO]  Epoch[3] Validation-cross-entropy=13.416770
+2023-01-22 17:18:44,076 [INFO]  Epoch[3] Validation-credit_card-accuracy=0.000000
+2023-01-22 17:18:44,076 [INFO]  Epoch[3] Validation-credit_card-accuracy=0.000000
+2023-01-22 17:18:44,076 [INFO]  Epoch[3] Validation-credit_card-accuracy=0.000000
+2023-01-22 17:19:23,469 [INFO]  Epoch[4] Batch [0-141]	Speed: 57.71 samples/sec	cross-entropy=14.208573	credit_card-accuracy=0.000000
+2023-01-22 17:19:23,469 [INFO]  Epoch[4] Batch [0-141]	Speed: 57.71 samples/sec	cross-entropy=14.208573	credit_card-accuracy=0.000000
+2023-01-22 17:19:23,469 [INFO]  Epoch[4] Batch [0-141]	Speed: 57.71 samples/sec	cross-entropy=14.208573	credit_card-accuracy=0.000000
+2023-01-22 17:20:02,393 [INFO]  Epoch[4] Train-cross-entropy=12.855232
+2023-01-22 17:20:02,393 [INFO]  Epoch[4] Train-cross-entropy=12.855232
+2023-01-22 17:20:02,393 [INFO]  Epoch[4] Train-cross-entropy=12.855232
+2023-01-22 17:20:02,394 [INFO]  Epoch[4] Train-credit_card-accuracy=0.000000
+2023-01-22 17:20:02,394 [INFO]  Epoch[4] Train-credit_card-accuracy=0.000000
+2023-01-22 17:20:02,394 [INFO]  Epoch[4] Train-credit_card-accuracy=0.000000
+2023-01-22 17:20:02,395 [INFO]  Epoch[4] Time cost=78.318
+2023-01-22 17:20:02,395 [INFO]  Epoch[4] Time cost=78.318
+2023-01-22 17:20:02,395 [INFO]  Epoch[4] Time cost=78.318
+2023-01-22 17:20:02,405 [INFO]  Saved checkpoint to "imputer_credit_card/model-0004.params"
+2023-01-22 17:20:02,405 [INFO]  Saved checkpoint to "imputer_credit_card/model-0004.params"
+2023-01-22 17:20:02,405 [INFO]  Saved checkpoint to "imputer_credit_card/model-0004.params"
+2023-01-22 17:20:02,899 [INFO]  Epoch[4] Validation-cross-entropy=13.268758
+2023-01-22 17:20:02,899 [INFO]  Epoch[4] Validation-cross-entropy=13.268758
+2023-01-22 17:20:02,899 [INFO]  Epoch[4] Validation-cross-entropy=13.268758
+2023-01-22 17:20:02,900 [INFO]  Epoch[4] Validation-credit_card-accuracy=0.000000
+2023-01-22 17:20:02,900 [INFO]  Epoch[4] Validation-credit_card-accuracy=0.000000
+2023-01-22 17:20:02,900 [INFO]  Epoch[4] Validation-credit_card-accuracy=0.000000
+2023-01-22 17:20:02,901 [INFO]  
+========== done (427.7059247493744 s) fit model
+2023-01-22 17:20:02,901 [INFO]  
+========== done (427.7059247493744 s) fit model
+2023-01-22 17:20:02,901 [INFO]  
+========== done (427.7059247493744 s) fit model
+2023-01-22 17:23:43,588 [INFO]  
+========== start: fit model
+2023-01-22 17:23:43,588 [INFO]  
+========== start: fit model
+2023-01-22 17:23:43,588 [INFO]  
+========== start: fit model
+2023-01-22 17:23:43,589 [WARNING]  Already bound, ignoring bind()
+2023-01-22 17:23:43,589 [WARNING]  Already bound, ignoring bind()
+2023-01-22 17:23:43,589 [WARNING]  Already bound, ignoring bind()
+2023-01-22 17:24:09,850 [INFO]  Epoch[0] Batch [0-109]	Speed: 66.99 samples/sec	cross-entropy=5.342341	balance-accuracy=0.000000
+2023-01-22 17:24:09,850 [INFO]  Epoch[0] Batch [0-109]	Speed: 66.99 samples/sec	cross-entropy=5.342341	balance-accuracy=0.000000
+2023-01-22 17:24:09,850 [INFO]  Epoch[0] Batch [0-109]	Speed: 66.99 samples/sec	cross-entropy=5.342341	balance-accuracy=0.000000
+2023-01-22 17:24:33,514 [INFO]  Epoch[0] Train-cross-entropy=23.414553
+2023-01-22 17:24:33,514 [INFO]  Epoch[0] Train-cross-entropy=23.414553
+2023-01-22 17:24:33,514 [INFO]  Epoch[0] Train-cross-entropy=23.414553
+2023-01-22 17:24:33,515 [INFO]  Epoch[0] Train-balance-accuracy=0.000000
+2023-01-22 17:24:33,515 [INFO]  Epoch[0] Train-balance-accuracy=0.000000
+2023-01-22 17:24:33,515 [INFO]  Epoch[0] Train-balance-accuracy=0.000000
+2023-01-22 17:24:33,516 [INFO]  Epoch[0] Time cost=49.924
+2023-01-22 17:24:33,516 [INFO]  Epoch[0] Time cost=49.924
+2023-01-22 17:24:33,516 [INFO]  Epoch[0] Time cost=49.924
+2023-01-22 17:24:33,522 [INFO]  Saved checkpoint to "imputer_balance/model-0000.params"
+2023-01-22 17:24:33,522 [INFO]  Saved checkpoint to "imputer_balance/model-0000.params"
+2023-01-22 17:24:33,522 [INFO]  Saved checkpoint to "imputer_balance/model-0000.params"
+2023-01-22 17:24:33,862 [INFO]  Epoch[0] Validation-cross-entropy=1.135213
+2023-01-22 17:24:33,862 [INFO]  Epoch[0] Validation-cross-entropy=1.135213
+2023-01-22 17:24:33,862 [INFO]  Epoch[0] Validation-cross-entropy=1.135213
+2023-01-22 17:24:33,863 [INFO]  Epoch[0] Validation-balance-accuracy=0.000000
+2023-01-22 17:24:33,863 [INFO]  Epoch[0] Validation-balance-accuracy=0.000000
+2023-01-22 17:24:33,863 [INFO]  Epoch[0] Validation-balance-accuracy=0.000000
+2023-01-22 17:24:57,301 [INFO]  Epoch[1] Batch [0-109]	Speed: 75.16 samples/sec	cross-entropy=5.195952	balance-accuracy=0.000000
+2023-01-22 17:24:57,301 [INFO]  Epoch[1] Batch [0-109]	Speed: 75.16 samples/sec	cross-entropy=5.195952	balance-accuracy=0.000000
+2023-01-22 17:24:57,301 [INFO]  Epoch[1] Batch [0-109]	Speed: 75.16 samples/sec	cross-entropy=5.195952	balance-accuracy=0.000000
+2023-01-22 17:25:19,971 [INFO]  Epoch[1] Train-cross-entropy=23.372016
+2023-01-22 17:25:19,971 [INFO]  Epoch[1] Train-cross-entropy=23.372016
+2023-01-22 17:25:19,971 [INFO]  Epoch[1] Train-cross-entropy=23.372016
+2023-01-22 17:25:19,972 [INFO]  Epoch[1] Train-balance-accuracy=0.000000
+2023-01-22 17:25:19,972 [INFO]  Epoch[1] Train-balance-accuracy=0.000000
+2023-01-22 17:25:19,972 [INFO]  Epoch[1] Train-balance-accuracy=0.000000
+2023-01-22 17:25:19,973 [INFO]  Epoch[1] Time cost=46.109
+2023-01-22 17:25:19,973 [INFO]  Epoch[1] Time cost=46.109
+2023-01-22 17:25:19,973 [INFO]  Epoch[1] Time cost=46.109
+2023-01-22 17:25:19,978 [INFO]  Saved checkpoint to "imputer_balance/model-0001.params"
+2023-01-22 17:25:19,978 [INFO]  Saved checkpoint to "imputer_balance/model-0001.params"
+2023-01-22 17:25:19,978 [INFO]  Saved checkpoint to "imputer_balance/model-0001.params"
+2023-01-22 17:25:20,312 [INFO]  Epoch[1] Validation-cross-entropy=1.137025
+2023-01-22 17:25:20,312 [INFO]  Epoch[1] Validation-cross-entropy=1.137025
+2023-01-22 17:25:20,312 [INFO]  Epoch[1] Validation-cross-entropy=1.137025
+2023-01-22 17:25:20,313 [INFO]  Epoch[1] Validation-balance-accuracy=0.000000
+2023-01-22 17:25:20,313 [INFO]  Epoch[1] Validation-balance-accuracy=0.000000
+2023-01-22 17:25:20,313 [INFO]  Epoch[1] Validation-balance-accuracy=0.000000
+2023-01-22 17:25:43,590 [INFO]  Epoch[2] Batch [0-109]	Speed: 75.67 samples/sec	cross-entropy=5.100567	balance-accuracy=0.000000
+2023-01-22 17:25:43,590 [INFO]  Epoch[2] Batch [0-109]	Speed: 75.67 samples/sec	cross-entropy=5.100567	balance-accuracy=0.000000
+2023-01-22 17:25:43,590 [INFO]  Epoch[2] Batch [0-109]	Speed: 75.67 samples/sec	cross-entropy=5.100567	balance-accuracy=0.000000
+2023-01-22 17:26:06,048 [INFO]  Epoch[2] Train-cross-entropy=23.305076
+2023-01-22 17:26:06,048 [INFO]  Epoch[2] Train-cross-entropy=23.305076
+2023-01-22 17:26:06,048 [INFO]  Epoch[2] Train-cross-entropy=23.305076
+2023-01-22 17:26:06,049 [INFO]  Epoch[2] Train-balance-accuracy=0.000000
+2023-01-22 17:26:06,049 [INFO]  Epoch[2] Train-balance-accuracy=0.000000
+2023-01-22 17:26:06,049 [INFO]  Epoch[2] Train-balance-accuracy=0.000000
+2023-01-22 17:26:06,051 [INFO]  Epoch[2] Time cost=45.736
+2023-01-22 17:26:06,051 [INFO]  Epoch[2] Time cost=45.736
+2023-01-22 17:26:06,051 [INFO]  Epoch[2] Time cost=45.736
+2023-01-22 17:26:06,055 [INFO]  Saved checkpoint to "imputer_balance/model-0002.params"
+2023-01-22 17:26:06,055 [INFO]  Saved checkpoint to "imputer_balance/model-0002.params"
+2023-01-22 17:26:06,055 [INFO]  Saved checkpoint to "imputer_balance/model-0002.params"
+2023-01-22 17:26:06,372 [INFO]  Epoch[2] Validation-cross-entropy=1.104329
+2023-01-22 17:26:06,372 [INFO]  Epoch[2] Validation-cross-entropy=1.104329
+2023-01-22 17:26:06,372 [INFO]  Epoch[2] Validation-cross-entropy=1.104329
+2023-01-22 17:26:06,373 [INFO]  Epoch[2] Validation-balance-accuracy=0.000000
+2023-01-22 17:26:06,373 [INFO]  Epoch[2] Validation-balance-accuracy=0.000000
+2023-01-22 17:26:06,373 [INFO]  Epoch[2] Validation-balance-accuracy=0.000000
+2023-01-22 17:26:29,621 [INFO]  Epoch[3] Batch [0-109]	Speed: 75.74 samples/sec	cross-entropy=5.035620	balance-accuracy=0.000000
+2023-01-22 17:26:29,621 [INFO]  Epoch[3] Batch [0-109]	Speed: 75.74 samples/sec	cross-entropy=5.035620	balance-accuracy=0.000000
+2023-01-22 17:26:29,621 [INFO]  Epoch[3] Batch [0-109]	Speed: 75.74 samples/sec	cross-entropy=5.035620	balance-accuracy=0.000000
+2023-01-22 17:26:52,199 [INFO]  Epoch[3] Train-cross-entropy=23.152580
+2023-01-22 17:26:52,199 [INFO]  Epoch[3] Train-cross-entropy=23.152580
+2023-01-22 17:26:52,199 [INFO]  Epoch[3] Train-cross-entropy=23.152580
+2023-01-22 17:26:52,201 [INFO]  Epoch[3] Train-balance-accuracy=0.000000
+2023-01-22 17:26:52,201 [INFO]  Epoch[3] Train-balance-accuracy=0.000000
+2023-01-22 17:26:52,201 [INFO]  Epoch[3] Train-balance-accuracy=0.000000
+2023-01-22 17:26:52,201 [INFO]  Epoch[3] Time cost=45.827
+2023-01-22 17:26:52,201 [INFO]  Epoch[3] Time cost=45.827
+2023-01-22 17:26:52,201 [INFO]  Epoch[3] Time cost=45.827
+2023-01-22 17:26:52,205 [INFO]  Saved checkpoint to "imputer_balance/model-0003.params"
+2023-01-22 17:26:52,205 [INFO]  Saved checkpoint to "imputer_balance/model-0003.params"
+2023-01-22 17:26:52,205 [INFO]  Saved checkpoint to "imputer_balance/model-0003.params"
+2023-01-22 17:26:52,547 [INFO]  Epoch[3] Validation-cross-entropy=1.072280
+2023-01-22 17:26:52,547 [INFO]  Epoch[3] Validation-cross-entropy=1.072280
+2023-01-22 17:26:52,547 [INFO]  Epoch[3] Validation-cross-entropy=1.072280
+2023-01-22 17:26:52,548 [INFO]  Epoch[3] Validation-balance-accuracy=0.000000
+2023-01-22 17:26:52,548 [INFO]  Epoch[3] Validation-balance-accuracy=0.000000
+2023-01-22 17:26:52,548 [INFO]  Epoch[3] Validation-balance-accuracy=0.000000
+2023-01-22 17:27:15,807 [INFO]  Epoch[4] Batch [0-109]	Speed: 75.74 samples/sec	cross-entropy=4.978696	balance-accuracy=0.000000
+2023-01-22 17:27:15,807 [INFO]  Epoch[4] Batch [0-109]	Speed: 75.74 samples/sec	cross-entropy=4.978696	balance-accuracy=0.000000
+2023-01-22 17:27:15,807 [INFO]  Epoch[4] Batch [0-109]	Speed: 75.74 samples/sec	cross-entropy=4.978696	balance-accuracy=0.000000
+2023-01-22 17:27:38,361 [INFO]  Epoch[4] Train-cross-entropy=23.047417
+2023-01-22 17:27:38,361 [INFO]  Epoch[4] Train-cross-entropy=23.047417
+2023-01-22 17:27:38,361 [INFO]  Epoch[4] Train-cross-entropy=23.047417
+2023-01-22 17:27:38,362 [INFO]  Epoch[4] Train-balance-accuracy=0.000000
+2023-01-22 17:27:38,362 [INFO]  Epoch[4] Train-balance-accuracy=0.000000
+2023-01-22 17:27:38,362 [INFO]  Epoch[4] Train-balance-accuracy=0.000000
+2023-01-22 17:27:38,363 [INFO]  Epoch[4] Time cost=45.814
+2023-01-22 17:27:38,363 [INFO]  Epoch[4] Time cost=45.814
+2023-01-22 17:27:38,363 [INFO]  Epoch[4] Time cost=45.814
+2023-01-22 17:27:38,367 [INFO]  Saved checkpoint to "imputer_balance/model-0004.params"
+2023-01-22 17:27:38,367 [INFO]  Saved checkpoint to "imputer_balance/model-0004.params"
+2023-01-22 17:27:38,367 [INFO]  Saved checkpoint to "imputer_balance/model-0004.params"
+2023-01-22 17:27:38,684 [INFO]  Epoch[4] Validation-cross-entropy=1.031205
+2023-01-22 17:27:38,684 [INFO]  Epoch[4] Validation-cross-entropy=1.031205
+2023-01-22 17:27:38,684 [INFO]  Epoch[4] Validation-cross-entropy=1.031205
+2023-01-22 17:27:38,685 [INFO]  Epoch[4] Validation-balance-accuracy=0.000000
+2023-01-22 17:27:38,685 [INFO]  Epoch[4] Validation-balance-accuracy=0.000000
+2023-01-22 17:27:38,685 [INFO]  Epoch[4] Validation-balance-accuracy=0.000000
+2023-01-22 17:27:38,687 [INFO]  
+========== done (235.09931778907776 s) fit model
+2023-01-22 17:27:38,687 [INFO]  
+========== done (235.09931778907776 s) fit model
+2023-01-22 17:27:38,687 [INFO]  
+========== done (235.09931778907776 s) fit model
+2023-01-22 17:58:01,689 [INFO]  
+========== start: fit model
+2023-01-22 17:58:01,689 [INFO]  
+========== start: fit model
+2023-01-22 17:58:01,689 [INFO]  
+========== start: fit model
+2023-01-22 17:58:01,692 [WARNING]  Already bound, ignoring bind()
+2023-01-22 17:58:01,692 [WARNING]  Already bound, ignoring bind()
+2023-01-22 17:58:01,692 [WARNING]  Already bound, ignoring bind()
+2023-01-22 17:58:31,609 [INFO]  Epoch[0] Batch [0-109]	Speed: 60.02 samples/sec	cross-entropy=22.303273	balance-accuracy=0.000000
+2023-01-22 17:58:31,609 [INFO]  Epoch[0] Batch [0-109]	Speed: 60.02 samples/sec	cross-entropy=22.303273	balance-accuracy=0.000000
+2023-01-22 17:58:31,609 [INFO]  Epoch[0] Batch [0-109]	Speed: 60.02 samples/sec	cross-entropy=22.303273	balance-accuracy=0.000000
+2023-01-22 17:58:55,189 [INFO]  Epoch[0] Train-cross-entropy=7.404602
+2023-01-22 17:58:55,189 [INFO]  Epoch[0] Train-cross-entropy=7.404602
+2023-01-22 17:58:55,189 [INFO]  Epoch[0] Train-cross-entropy=7.404602
+2023-01-22 17:58:55,190 [INFO]  Epoch[0] Train-balance-accuracy=0.000000
+2023-01-22 17:58:55,190 [INFO]  Epoch[0] Train-balance-accuracy=0.000000
+2023-01-22 17:58:55,190 [INFO]  Epoch[0] Train-balance-accuracy=0.000000
+2023-01-22 17:58:55,191 [INFO]  Epoch[0] Time cost=53.494
+2023-01-22 17:58:55,191 [INFO]  Epoch[0] Time cost=53.494
+2023-01-22 17:58:55,191 [INFO]  Epoch[0] Time cost=53.494
+2023-01-22 17:58:55,196 [INFO]  Saved checkpoint to "imputer_balance/model-0000.params"
+2023-01-22 17:58:55,196 [INFO]  Saved checkpoint to "imputer_balance/model-0000.params"
+2023-01-22 17:58:55,196 [INFO]  Saved checkpoint to "imputer_balance/model-0000.params"
+2023-01-22 17:58:55,621 [INFO]  Epoch[0] Validation-cross-entropy=1.344715
+2023-01-22 17:58:55,621 [INFO]  Epoch[0] Validation-cross-entropy=1.344715
+2023-01-22 17:58:55,621 [INFO]  Epoch[0] Validation-cross-entropy=1.344715
+2023-01-22 17:58:55,623 [INFO]  Epoch[0] Validation-balance-accuracy=0.000000
+2023-01-22 17:58:55,623 [INFO]  Epoch[0] Validation-balance-accuracy=0.000000
+2023-01-22 17:58:55,623 [INFO]  Epoch[0] Validation-balance-accuracy=0.000000
+2023-01-22 17:59:19,698 [INFO]  Epoch[1] Batch [0-109]	Speed: 73.37 samples/sec	cross-entropy=21.853737	balance-accuracy=0.000000
+2023-01-22 17:59:19,698 [INFO]  Epoch[1] Batch [0-109]	Speed: 73.37 samples/sec	cross-entropy=21.853737	balance-accuracy=0.000000
+2023-01-22 17:59:19,698 [INFO]  Epoch[1] Batch [0-109]	Speed: 73.37 samples/sec	cross-entropy=21.853737	balance-accuracy=0.000000
+2023-01-22 17:59:46,430 [INFO]  Epoch[1] Train-cross-entropy=7.347341
+2023-01-22 17:59:46,430 [INFO]  Epoch[1] Train-cross-entropy=7.347341
+2023-01-22 17:59:46,430 [INFO]  Epoch[1] Train-cross-entropy=7.347341
+2023-01-22 17:59:46,453 [INFO]  Epoch[1] Train-balance-accuracy=0.000000
+2023-01-22 17:59:46,453 [INFO]  Epoch[1] Train-balance-accuracy=0.000000
+2023-01-22 17:59:46,453 [INFO]  Epoch[1] Train-balance-accuracy=0.000000
+2023-01-22 17:59:46,455 [INFO]  Epoch[1] Time cost=50.831
+2023-01-22 17:59:46,455 [INFO]  Epoch[1] Time cost=50.831
+2023-01-22 17:59:46,455 [INFO]  Epoch[1] Time cost=50.831
+2023-01-22 17:59:46,458 [INFO]  Saved checkpoint to "imputer_balance/model-0001.params"
+2023-01-22 17:59:46,458 [INFO]  Saved checkpoint to "imputer_balance/model-0001.params"
+2023-01-22 17:59:46,458 [INFO]  Saved checkpoint to "imputer_balance/model-0001.params"
+2023-01-22 17:59:46,951 [INFO]  Epoch[1] Validation-cross-entropy=1.206022
+2023-01-22 17:59:46,951 [INFO]  Epoch[1] Validation-cross-entropy=1.206022
+2023-01-22 17:59:46,951 [INFO]  Epoch[1] Validation-cross-entropy=1.206022
+2023-01-22 17:59:46,953 [INFO]  Epoch[1] Validation-balance-accuracy=0.000000
+2023-01-22 17:59:46,953 [INFO]  Epoch[1] Validation-balance-accuracy=0.000000
+2023-01-22 17:59:46,953 [INFO]  Epoch[1] Validation-balance-accuracy=0.000000
+2023-01-22 18:00:14,321 [INFO]  Epoch[2] Batch [0-109]	Speed: 64.34 samples/sec	cross-entropy=21.631535	balance-accuracy=0.000000
+2023-01-22 18:00:14,321 [INFO]  Epoch[2] Batch [0-109]	Speed: 64.34 samples/sec	cross-entropy=21.631535	balance-accuracy=0.000000
+2023-01-22 18:00:14,321 [INFO]  Epoch[2] Batch [0-109]	Speed: 64.34 samples/sec	cross-entropy=21.631535	balance-accuracy=0.000000
+2023-01-22 18:00:39,198 [INFO]  Epoch[2] Train-cross-entropy=7.234219
+2023-01-22 18:00:39,198 [INFO]  Epoch[2] Train-cross-entropy=7.234219
+2023-01-22 18:00:39,198 [INFO]  Epoch[2] Train-cross-entropy=7.234219
+2023-01-22 18:00:39,200 [INFO]  Epoch[2] Train-balance-accuracy=0.000000
+2023-01-22 18:00:39,200 [INFO]  Epoch[2] Train-balance-accuracy=0.000000
+2023-01-22 18:00:39,200 [INFO]  Epoch[2] Train-balance-accuracy=0.000000
+2023-01-22 18:00:39,201 [INFO]  Epoch[2] Time cost=52.247
+2023-01-22 18:00:39,201 [INFO]  Epoch[2] Time cost=52.247
+2023-01-22 18:00:39,201 [INFO]  Epoch[2] Time cost=52.247
+2023-01-22 18:00:39,206 [INFO]  Saved checkpoint to "imputer_balance/model-0002.params"
+2023-01-22 18:00:39,206 [INFO]  Saved checkpoint to "imputer_balance/model-0002.params"
+2023-01-22 18:00:39,206 [INFO]  Saved checkpoint to "imputer_balance/model-0002.params"
+2023-01-22 18:00:39,578 [INFO]  Epoch[2] Validation-cross-entropy=1.182578
+2023-01-22 18:00:39,578 [INFO]  Epoch[2] Validation-cross-entropy=1.182578
+2023-01-22 18:00:39,578 [INFO]  Epoch[2] Validation-cross-entropy=1.182578
+2023-01-22 18:00:39,579 [INFO]  Epoch[2] Validation-balance-accuracy=0.000000
+2023-01-22 18:00:39,579 [INFO]  Epoch[2] Validation-balance-accuracy=0.000000
+2023-01-22 18:00:39,579 [INFO]  Epoch[2] Validation-balance-accuracy=0.000000
+2023-01-22 18:01:05,397 [INFO]  Epoch[3] Batch [0-109]	Speed: 68.19 samples/sec	cross-entropy=21.544950	balance-accuracy=0.000000
+2023-01-22 18:01:05,397 [INFO]  Epoch[3] Batch [0-109]	Speed: 68.19 samples/sec	cross-entropy=21.544950	balance-accuracy=0.000000
+2023-01-22 18:01:05,397 [INFO]  Epoch[3] Batch [0-109]	Speed: 68.19 samples/sec	cross-entropy=21.544950	balance-accuracy=0.000000
+2023-01-22 18:01:31,562 [INFO]  Epoch[3] Train-cross-entropy=7.135038
+2023-01-22 18:01:31,562 [INFO]  Epoch[3] Train-cross-entropy=7.135038
+2023-01-22 18:01:31,562 [INFO]  Epoch[3] Train-cross-entropy=7.135038
+2023-01-22 18:01:31,571 [INFO]  Epoch[3] Train-balance-accuracy=0.000000
+2023-01-22 18:01:31,571 [INFO]  Epoch[3] Train-balance-accuracy=0.000000
+2023-01-22 18:01:31,571 [INFO]  Epoch[3] Train-balance-accuracy=0.000000
+2023-01-22 18:01:31,572 [INFO]  Epoch[3] Time cost=51.992
+2023-01-22 18:01:31,572 [INFO]  Epoch[3] Time cost=51.992
+2023-01-22 18:01:31,572 [INFO]  Epoch[3] Time cost=51.992
+2023-01-22 18:01:31,577 [INFO]  Saved checkpoint to "imputer_balance/model-0003.params"
+2023-01-22 18:01:31,577 [INFO]  Saved checkpoint to "imputer_balance/model-0003.params"
+2023-01-22 18:01:31,577 [INFO]  Saved checkpoint to "imputer_balance/model-0003.params"
+2023-01-22 18:01:31,937 [INFO]  Epoch[3] Validation-cross-entropy=1.172074
+2023-01-22 18:01:31,937 [INFO]  Epoch[3] Validation-cross-entropy=1.172074
+2023-01-22 18:01:31,937 [INFO]  Epoch[3] Validation-cross-entropy=1.172074
+2023-01-22 18:01:31,938 [INFO]  Epoch[3] Validation-balance-accuracy=0.000000
+2023-01-22 18:01:31,938 [INFO]  Epoch[3] Validation-balance-accuracy=0.000000
+2023-01-22 18:01:31,938 [INFO]  Epoch[3] Validation-balance-accuracy=0.000000
+2023-01-22 18:01:56,490 [INFO]  Epoch[4] Batch [0-109]	Speed: 71.71 samples/sec	cross-entropy=21.414239	balance-accuracy=0.000000
+2023-01-22 18:01:56,490 [INFO]  Epoch[4] Batch [0-109]	Speed: 71.71 samples/sec	cross-entropy=21.414239	balance-accuracy=0.000000
+2023-01-22 18:01:56,490 [INFO]  Epoch[4] Batch [0-109]	Speed: 71.71 samples/sec	cross-entropy=21.414239	balance-accuracy=0.000000
+2023-01-22 18:02:19,970 [INFO]  Epoch[4] Train-cross-entropy=7.064667
+2023-01-22 18:02:19,970 [INFO]  Epoch[4] Train-cross-entropy=7.064667
+2023-01-22 18:02:19,970 [INFO]  Epoch[4] Train-cross-entropy=7.064667
+2023-01-22 18:02:19,987 [INFO]  Epoch[4] Train-balance-accuracy=0.000000
+2023-01-22 18:02:19,987 [INFO]  Epoch[4] Train-balance-accuracy=0.000000
+2023-01-22 18:02:19,987 [INFO]  Epoch[4] Train-balance-accuracy=0.000000
+2023-01-22 18:02:19,989 [INFO]  Epoch[4] Time cost=48.050
+2023-01-22 18:02:19,989 [INFO]  Epoch[4] Time cost=48.050
+2023-01-22 18:02:19,989 [INFO]  Epoch[4] Time cost=48.050
+2023-01-22 18:02:19,994 [INFO]  Saved checkpoint to "imputer_balance/model-0004.params"
+2023-01-22 18:02:19,994 [INFO]  Saved checkpoint to "imputer_balance/model-0004.params"
+2023-01-22 18:02:19,994 [INFO]  Saved checkpoint to "imputer_balance/model-0004.params"
+2023-01-22 18:02:20,347 [INFO]  Epoch[4] Validation-cross-entropy=1.184942
+2023-01-22 18:02:20,347 [INFO]  Epoch[4] Validation-cross-entropy=1.184942
+2023-01-22 18:02:20,347 [INFO]  Epoch[4] Validation-cross-entropy=1.184942
+2023-01-22 18:02:20,348 [INFO]  Epoch[4] Validation-balance-accuracy=0.000000
+2023-01-22 18:02:20,348 [INFO]  Epoch[4] Validation-balance-accuracy=0.000000
+2023-01-22 18:02:20,348 [INFO]  Epoch[4] Validation-balance-accuracy=0.000000
+2023-01-22 18:02:20,349 [INFO]  
+========== done (258.6604688167572 s) fit model
+2023-01-22 18:02:20,349 [INFO]  
+========== done (258.6604688167572 s) fit model
+2023-01-22 18:02:20,349 [INFO]  
+========== done (258.6604688167572 s) fit model
